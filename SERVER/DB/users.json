@@ -1,0 +1,67 @@
+[
+    {
+        "id": "12345",
+        "firstname": "muhmad",
+        "lastname": "msarwe",
+        "email": "muhmad55555@gmail.com",
+        "password": "mudsadsadasdashmad",
+        "admin": false,
+        "history": [
+            {
+                "stationName": "ציבורי - קדמא נווה אילן ירושלים",
+                "address": "Ha-Shayara Street",
+                "city": "Neve Ilan",
+                "operator": "Ev4u",
+                "connector": "type 2",
+                "power": 12,
+                "speed": "איטי"
+            }
+        ],
+        "vehicles": [
+            {
+                "number": "123456781",
+                "manufacturer": "BYD",
+                "model": "Atto 3",
+                "type": "SUV קומפקטי",
+                "year": "2022"
+            }
+        ],
+        "card": {
+            "cardNumber": "4850 4800 7155 3123",
+            "holder": "Yahya Saleh",
+            "expiry": "12/30",
+            "cvv": "155"
+        }
+    },
+    {
+        "id": "69696969",
+        "firstname": "hamza",
+        "lastname": "odeh",
+        "email": "hamzaSexy666@gmail.com",
+        "password": "hamza",
+        "admin": false,
+        "history": [],
+        "vehicles": [
+            {
+                "number": "12345",
+                "manufacturer": "BYD",
+                "model": "Atto 3",
+                "type": "SUV קומפקטי",
+                "year": "2022"
+            },
+            {
+                "number": "123456",
+                "manufacturer": "BYD",
+                "model": "Atto 3",
+                "type": "SUV קומפקטי",
+                "year": "2022"
+            }
+        ],
+        "card": {
+            "cardNumber": "4850 4800 7155 3123",
+            "holder": "Hamza Odeh",
+            "expiry": "12/30",
+            "cvv": "155"
+        }
+    }
+]

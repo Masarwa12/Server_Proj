@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "stationName": "ציבורי - קדמא נווה אילן ירושלים",
+    "address": "Ha-Shayara Street",
+    "city": "Neve Ilan",
+    "latitude": 31.8089,
+    "longitude": 35.0778,
+    "operator": "Ev4u",
+    "connector": "type 2",
+    "power": 12,
+    "speed": "איטי"
+  },
+  {
+    "id": 2,
+    "stationName": "ציבורי - אסיינדה מעלות תרשיחא",
+    "address": "1 אשכולות",
+    "city": "Ma'alot Tarshiha",
+    "latitude": 33.0095,
+    "longitude": 35.2782,
+    "operator": "Ev4u",
+    "connector": "type 2",
+    "power": 12,
+    "speed": "איטי"
+  },
+  {
+    "id": 3,
+    "stationName": "ציבורי - דימרי סנטר כפר סבא",
+    "address": "78 אנג'ל",
+    "city": "Kefar Sava",
+    "latitude": 32.1981,
+    "longitude": 34.8903,
+    "operator": "Ev4u",
+    "connector": "type 2",
+    "power": 12,
+    "speed": "איטי"
+  },
+  {
+    "id": 4,
+    "stationName": "ציבורי- דימרי סנטר באר שבע ",
+    "address": "Hita Street",
+    "city": "Be'er Sheva",
+    "latitude": 31.2348,
+    "longitude": 34.8,
+    "operator": "Ev4u",
+    "connector": "combo",
+    "power": 24,
+    "speed": "איטי"
+  }
+]

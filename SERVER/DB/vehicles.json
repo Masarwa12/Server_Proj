@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "manufacturer": "BYD",
+        "model": "Atto 3",
+        "type": "SUV קומפקטי",
+        "year": "2022"
+    },
+    {
+        "id": 2,
+        "manufacturer": "BYD",
+        "model": "Dolphin",
+        "type": "האצ'בק קומפקטית",
+        "year": "2023"
+    },
+    {
+        "id": 3,
+        "manufacturer": "Hyundai",
+        "model": "Ioniq 5",
+        "type": "SUV חשמלי (E-GMP)",
+        "year": "2022"
+    },
+    {
+        "id": 4,
+        "manufacturer": "Hyundai",
+        "model": "Ioniq 6",
+        "type": "סדאן חשמלית (Liftback)",
+        "year": "2023"
+    },
+    {
+        "id": 5,
+        "manufacturer": "Hyundai",
+        "model": "Kona Electric",
+        "type": "SUV חשמלי",
+        "year": "2020"
+    },
+    {
+        "id": 6,
+        "manufacturer": "Tesla",
+        "model": "Model 3",
+        "type": "סדאן חשמלית",
+        "year": "2021"
+    },
+    {
+        "id": 7,
+        "manufacturer": "Tesla",
+        "model": "Model Y",
+        "type": "SUV חשמלי",
+        "year": "2022"
+    }
+]
